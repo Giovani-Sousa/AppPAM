@@ -1,6 +1,6 @@
 # AppPAM
 ## Feito por:
-### Arthur Reimberg dos Santos Rm: 
+### Arthur Reimberg dos Santos Reimberg Rm: 37314 
 ### Giovani Amorim de Sousa Rm: 36980
 
 ## Súmario da Wiki
