@@ -3,6 +3,9 @@
 ### Arthur Reimberg dos Santos Reimberg Rm: 37314 
 ### Giovani Amorim de Sousa Rm: 36980
 
+## Descrição
+O GymApp é um aplicativo que vem para facilitar o acesso a treinos de qualidade para pessoas que desejam fazer atividade física
+
 ## Súmario da Wiki
 <a href="https://github.com/Giovani-Sousa/GymApp/wiki/GymApp#tela-inicial">1) Tela Inicial</a><br>
 <a href="https://github.com/Giovani-Sousa/GymApp/wiki/GymApp#segunda-tela">2) Segunda Tela</a><br>
